@@ -1,0 +1,442 @@
+countries:
+  # Europe
+  AD:
+    name: "Andorra"
+    continent: "Europe"
+    risk_score: 20.0
+  AT:
+    name: "Austria"
+    continent: "Europe"
+    risk_score: 22.79
+  BY:
+    name: "Belarus"
+    continent: "Europe"
+    risk_score: 51.88
+  BE:
+    name: "Belgium"
+    continent: "Europe"
+    risk_score: 23.46
+  BA:
+    name: "Bosnia-Herzegovina"
+    continent: "Europe"
+    risk_score: 41.07
+  BG:
+    name: "Bulgaria"
+    continent: "Europe"
+    risk_score: 28.57
+  HR:
+    name: "Croatia"
+    continent: "Europe"
+    risk_score: 31.11
+  CY:
+    name: "Cyprus"
+    continent: "Europe"
+    risk_score: 30.34
+  CZ:
+    name: "Czech Republic"
+    continent: "Europe"
+    risk_score: 22.77
+  DK:
+    name: "Denmark"
+    continent: "Europe"
+    risk_score: 16.60
+  EE:
+    name: "Estonia"
+    continent: "Europe"
+    risk_score: 17.73
+  FO:
+    name: "Faroe Islands"
+    continent: "Europe"
+    risk_score: 15.76
+  FI:
+    name: "Finland"
+    continent: "Europe"
+    risk_score: 15.54
+  FR:
+    name: "France"
+    continent: "Europe"
+    risk_score: 24.17
+  GE:
+    name: "Georgia"
+    continent: "Europe"
+    risk_score: 24.72
+  DE:
+    name: "Germany"
+    continent: "Europe"
+    risk_score: 24.91
+  GI:
+    name: "Gibraltar"
+    continent: "Europe"
+    risk_score: 40.30
+  GR:
+    name: "Greece"
+    continent: "Europe"
+    risk_score: 27.53
+  GG:
+    name: "Guernsey"
+    continent: "Europe"
+    risk_score: 22.39
+  HU:
+    name: "Hungary"
+    continent: "Europe"
+    risk_score: 24.66
+  IS:
+    name: "Iceland"
+    continent: "Europe"
+    risk_score: 15.87
+  IE:
+    name: "Ireland"
+    continent: "Europe"
+    risk_score: 23.72
+  IM:
+    name: "Isle of Man"
+    continent: "Europe"
+    risk_score: 23.32
+  IT:
+    name: "Italy"
+    continent: "Europe"
+    risk_score: 28.15
+  JE:
+    name: "Jersey"
+    continent: "Europe"
+    risk_score: 23.77
+  KZ:
+    name: "Kazakhstan"
+    continent: "Europe"
+    risk_score: 28.88
+  LV:
+    name: "Latvia"
+    continent: "Europe"
+    risk_score: 20.46
+  LI:
+    name: "Liechtenstein"
+    continent: "Europe"
+    risk_score: 19.81
+  LT:
+    name: "Lithuania"
+    continent: "Europe"
+    risk_score: 18.51
+  LU:
+    name: "Luxembourg"
+    continent: "Europe"
+    risk_score: 23.87
+  MT:
+    name: "Malta"
+    continent: "Europe"
+    risk_score: 24.85
+  MD:
+    name: "Moldova"
+    continent: "Europe"
+    risk_score: 33.42
+  MC:
+    name: "Monaco"
+    continent: "Europe"
+    risk_score: 26.38
+  ME:
+    name: "Montenegro"
+    continent: "Europe"
+    risk_score: 35.05
+  NL:
+    name: "Netherlands"
+    continent: "Europe"
+    risk_score: 26.35
+  MK:
+    name: "North Macedonia"
+    continent: "Europe"
+    risk_score: 31.96
+  NO:
+    name: "Norway"
+    continent: "Europe"
+    risk_score: 15.85
+  PL:
+    name: "Poland"
+    continent: "Europe"
+    risk_score: 23.79
+  PT:
+    name: "Portugal"
+    continent: "Europe"
+    risk_score: 21.13
+  RO:
+    name: "Romania"
+    continent: "Europe"
+    risk_score: 27.54
+  SM:
+    name: "San Marino"
+    continent: "Europe"
+    risk_score: 16.68
+  RS:
+    name: "Serbia"
+    continent: "Europe"
+    risk_score: 34.85
+  SK:
+    name: "Slovakia"
+    continent: "Europe"
+    risk_score: 24.87
+  SI:
+    name: "Slovenia"
+    continent: "Europe"
+    risk_score: 26.68
+  ES:
+    name: "Spain"
+    continent: "Europe"
+    risk_score: 25.54
+  SE:
+    name: "Sweden"
+    continent: "Europe"
+    risk_score: 17.65
+  CH:
+    name: "Switzerland"
+    continent: "Europe"
+    risk_score: 24.67
+  TR:
+    name: "Turkey"
+    continent: "Europe"
+    risk_score: 60.58
+  UA:
+    name: "Ukraine"
+    continent: "Europe"
+    risk_score: 66.82
+  GB:
+    name: "United Kingdom"
+    continent: "Europe"
+    risk_score: 27.85
+  AX:
+    name: "Åland Islands"
+    continent: "Europe"
+    risk_score: 14.53
+
+  # North America
+  AI:
+    name: "Anguilla"
+    continent: "North America"
+    risk_score: 29.36
+  BM:
+    name: "Bermuda"
+    continent: "North America"
+    risk_score: 19.26
+  VG:
+    name: "British Virgin Islands"
+    continent: "North America"
+    risk_score: 35.69
+  CA:
+    name: "Canada"
+    continent: "North America"
+    risk_score: 25.77
+  DO:
+    name: "Dominican Republic"
+    continent: "North America"
+    risk_score: 28.79
+  SV:
+    name: "El Salvador"
+    continent: "North America"
+    risk_score: 31.75
+  GL:
+    name: "Greenland"
+    continent: "North America"
+    risk_score: 16.69
+  GP:
+    name: "Guadeloupe"
+    continent: "North America"
+    risk_score: 19.61
+  GT:
+    name: "Guatemala"
+    continent: "North America"
+    risk_score: 30.13
+  HN:
+    name: "Honduras"
+    continent: "North America"
+    risk_score: 32.37
+  MQ:
+    name: "Martinique"
+    continent: "North America"
+    risk_score: 20.70
+  MX:
+    name: "Mexico"
+    continent: "North America"
+    risk_score: 34.79
+  MF:
+    name: "Saint Martin (French part)"
+    continent: "North America"
+    risk_score: 19.61
+  PM:
+    name: "Saint Pierre and Miquelon"
+    continent: "North America"
+    risk_score: 19.61
+  SX:
+    name: "St Maarten"
+    continent: "North America"
+    risk_score: 39.98
+
+  # South America
+  AR:
+    name: "Argentina"
+    continent: "South America"
+    risk_score: 31.11
+  BQ:
+    name: "Bonaire. Sint Eustatius and Saba"
+    continent: "South America"
+    risk_score: 21.27
+  BR:
+    name: "Brazil"
+    continent: "South America"
+    risk_score: 40.13
+  CL:
+    name: "Chile"
+    continent: "South America"
+    risk_score: 28.29
+  CW:
+    name: "Curacao"
+    continent: "South America"
+    risk_score: 35.07
+  GF:
+    name: "French Guiana"
+    continent: "South America"
+    risk_score: 19.82
+  PY:
+    name: "Paraguay"
+    continent: "South America"
+    risk_score: 33.31
+  PE:
+    name: "Peru"
+    continent: "South America"
+    risk_score: 34.03
+  UY:
+    name: "Uruguay"
+    continent: "South America"
+    risk_score: 18.93
+
+  # Asia
+  BH:
+    name: "Bahrain"
+    continent: "Asia"
+    risk_score: 30.29
+  IO:
+    name: "British Indian Ocean Territory"
+    continent: "Asia"
+    risk_score: 20.81
+  CN:
+    name: "China"
+    continent: "Asia"
+    risk_score: 38.29
+  HK:
+    name: "Hong Kong"
+    continent: "Asia"
+    risk_score: 29.48
+  IN:
+    name: "India"
+    continent: "Asia"
+    risk_score: 37.21
+  ID:
+    name: "Indonesia"
+    continent: "Asia"
+    risk_score: 35.35
+  IL:
+    name: "Israel"
+    continent: "Asia"
+    risk_score: 39.13
+  JP:
+    name: "Japan"
+    continent: "Asia"
+    risk_score: 22.71
+  JO:
+    name: "Jordan"
+    continent: "Asia"
+    risk_score: 45.77
+  KW:
+    name: "Kuwait"
+    continent: "Asia"
+    risk_score: 26.29
+  MY:
+    name: "Malaysia"
+    continent: "Asia"
+    risk_score: 33.65
+  OM:
+    name: "Oman"
+    continent: "Asia"
+    risk_score: 22.49
+  PH:
+    name: "Philippines"
+    continent: "Asia"
+    risk_score: 56.52
+  QA:
+    name: "Qatar"
+    continent: "Asia"
+    risk_score: 27.29
+  SA:
+    name: "Saudi Arabia"
+    continent: "Asia"
+    risk_score: 27.61
+  SG:
+    name: "Singapore"
+    continent: "Asia"
+    risk_score: 21.28
+  KR:
+    name: "South Korea"
+    continent: "Asia"
+    risk_score: 21.27
+  TW:
+    name: "Taiwan"
+    continent: "Asia"
+    risk_score: 25.65
+  TH:
+    name: "Thailand"
+    continent: "Asia"
+    risk_score: 38.35
+  AE:
+    name: "United Arab Emirates"
+    continent: "Asia"
+    risk_score: 44.34
+  VN:
+    name: "Vietnam"
+    continent: "Asia"
+    risk_score: 36.08
+
+
+  # Oceania
+  AU:
+    name: "Australia"
+    continent: "Oceania"
+    risk_score: 22.00
+  NC:
+    name: "New Caledonia"
+    continent: "Oceania"
+    risk_score: 19.61
+  NZ:
+    name: "New Zealand"
+    continent: "Oceania"
+    risk_score: 19.41
+
+  # Africa
+  BI:
+    name: "Burundi"
+    continent: "Africa"
+    risk_score: 54.37
+  TD:
+    name: "Chad"
+    continent: "Africa"
+    risk_score: 40.06
+  ET:
+    name: "Ethiopia"
+    continent: "Africa"
+    risk_score: 34.83
+  MR:
+    name: "Mauritania"
+    continent: "Africa"
+    risk_score: 26.21
+  RE:
+    name: "Réunion"
+    continent: "Africa"
+    risk_score: 20.70
+  SH:
+    name: "Saint Helena. Ascension and Tristan da Cunha"
+    continent: "Africa"
+    risk_score: 20.81
+  SL:
+    name: "Sierra Leone"
+    continent: "Africa"
+    risk_score: 34.42
+  ZA:
+    name: "South Africa"
+    continent: "Africa"
+    risk_score: 44.16
+    

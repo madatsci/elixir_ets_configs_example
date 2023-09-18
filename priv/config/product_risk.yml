@@ -1,0 +1,14 @@
+continents:
+  "Africa":
+    risk_score: 18.0
+  "Asia":
+    risk_score: 28.0
+  "Europe":
+    risk_score: 31.0
+  "North America":
+    risk_score: 28.0
+  "Oceania":
+    risk_score: 28.0
+  "South America":
+    risk_score: 28.0
+    
